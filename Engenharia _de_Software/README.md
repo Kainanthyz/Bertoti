@@ -28,6 +28,6 @@ Requisitos Não Funcionais
 # Diagrama de Caso de Uso:
 ![Caso de uso](https://user-images.githubusercontent.com/91689791/187482924-6e8f93d3-cd24-4d15-a4bf-73ae84bbf5f1.png )
 
-#Diagrama de Classe:
+# Diagrama de Classe:
 
 
